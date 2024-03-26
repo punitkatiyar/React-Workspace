@@ -8,7 +8,7 @@ function Home(){
         <h1>Hello Github CodeSpace And React</h1>
         <h2>Hello</h2>
         <User/>
-        <button onClick={()=>alert("Hello")}></button>
+        <button onClick={()=>alert("Hello")}>Join Now</button>
         </>
     )
 }
