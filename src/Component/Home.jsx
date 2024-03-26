@@ -9,7 +9,6 @@ function Home(){
         <h2>Hello</h2>
         <User/>
         </>
-
     )
 }
 export default Home
